@@ -1,4 +1,1 @@
-socket:
-  service:
-    port: 8989
-ip : 8989
+ip: 8899
